@@ -1,0 +1,12 @@
+{
+  "manager": {
+    "version": "1.0.1 beta",
+    "versionCode": "2",
+  },
+  "vanced": {
+    "version": "15.05.54"
+  },
+  "magisk": {
+    "version": "0.2.6"
+  }
+}
