@@ -1,5 +1,6 @@
 {
   "version": "1.0.1 beta",
   "versionCode": "4",
-  "url": "https://x1nto.github.io/VancedFiles/release.apk"
+  "url": "https://x1nto.github.io/VancedFiles/release.apk",
+  "changelog": "Recreate activity after uninstall and Install events"
 }
