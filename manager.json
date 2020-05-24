@@ -1,6 +1,6 @@
 {
   "version": "1.1.0 beta",
-  "versionCode": "4",
+  "versionCode": "5",
   "url": "https://x1nto.github.io/VancedFiles/release.apk",
-  "changelog": "Removed runOnUiThread method"
+  "changelog": "Changes:\n- Added a fully working downloader\n- App doesn't require storage permissions anymore\n\nTODO:\n- Add an actual installer\n- Optimise UI"
 }
