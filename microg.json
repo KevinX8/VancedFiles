@@ -1,5 +1,6 @@
 {
   "version": "0.2.6.17455-dirty",
   "versionCode": "17455013",
+  "changelog": "Changes:\n - Added casting support\n - Fixed notifications\n\nMicroG now requires Vanced 14.21.54 and up"
   "url": "https://vanced.app/downloads/MicroG/microg_YouTube_Vanced_0.2.6.17455_28052019.apk"
 }
