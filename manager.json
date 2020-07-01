@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "versionCode": "8",
-  "url": "https://x1nto.github.io/VancedFiles/release.apk",
-  "changelog": "Changes:\n- Added a fully working downloader\n- App doesn't require storage permissions anymore\n\nTODO:\n- Add an actual installer\n- Optimise UI"
+  "url": "https://github.com/YTVanced/VancedMaanger/release/latest/manager.apk",
+  "changelog": "Initial release"
 }
