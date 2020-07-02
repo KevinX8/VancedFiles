@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "versionCode": "10",
   "url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk",
-  "changelog": "- Squashed some bugs\n- Drank a cup of tea\n- Slept with your mother"
+  "changelog": "- Hotfixed auto update app feature\n- Added warning for magisk module users\n- Fixed various bugs\n- updated translations\n- All fixes from 1.0.1 included"
 }
